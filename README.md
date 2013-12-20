@@ -3,9 +3,11 @@ BSTableViewCell
 
 ## Class
 
-** BSSliderCell ** 
-** BSSwitchCell **
-** BSTextfieldCell **
+`BSSliderCell`
+
+`BSSwitchCell`
+
+`BSTextfieldCell`
 
 ## License
 
